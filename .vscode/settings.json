@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/satosho/.pyenv/shims/python3"
+    "python.pythonPath": "/Users/satosho/.pyenv/shims/python3",
+    "git.ignoreLimitWarning": true
 }
