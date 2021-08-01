@@ -12,6 +12,8 @@ scikit-learn = "*"
 xlrd = "*"
 openpyxl = "*"
 lxml = "*"
+pydotplus = "*"
+graphviz = "*"
 
 [dev-packages]
 
